@@ -1,0 +1,9 @@
+.idea/*
+node_modules
+*/node_modules
+bsc/build
+eth/build
+coverage
+coverage.json
+
+yarn.lock
